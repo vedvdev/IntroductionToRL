@@ -1,6 +1,11 @@
 # IntroductionToRL
+
 ## Table of Contents
+
 - **Assignments**
-  - DLnDLL
+  - Assign1
+    - DLnDLL
+  - Assign2
+    - PracRL
 - README.md
 - .gitignore
